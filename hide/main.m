@@ -2,8 +2,8 @@
 //  main.m
 //  hide
 //
-//  Created by Tracey Slater on 2019-01-21.
-//  Copyright © 2019 Tracey Slater. All rights reserved.
+//  Created by Anthony Morassutti on 2019-07-17.
+//  Copyright © 2019 Thereisnocopyright. No rights reserved.
 //
 
 #import <Cocoa/Cocoa.h>
