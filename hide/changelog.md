@@ -61,3 +61,13 @@ Did build 6 but in a different file
 • in the copyright section of the About window, added a link to [the license](https://choosealicense.com/licenses/gpl-3.0/)
 ### Build 3
 • see above; added sentence (the first time bugged out) to (re)published to GitHub
+## Version 2.3.4
+No idea, poppet
+## Version 2.3.5
+Beta of version 2.4
+• modified copyright comments in files
+• I can't remember the other thing
+## Version 2.4
+Two new viewcontrollers!
+### Build 4
+Fixed issue
