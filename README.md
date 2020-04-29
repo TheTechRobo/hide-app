@@ -1,9 +1,8 @@
 # hide
- Official GitHub repo for hide
+ Official GitHub repo for hide, a basic Xcode app designed to teach people how to make an app.
+ 
+ (NOTE: I have no idea what I am doing when I make this.)
 
 
-...and when I said it "kept bugging out", I meant GitHub kept because I was using my rsync-tool to sync two folders together and forgot --delete because it didn't work because the guide said --delete but spellcheck turned it into a —delete. :roll-eyes:
 
-
-
-PLEASE NOTE... built versions of the app are found in hide_archives
+PLEASE NOTE... built versions of the app can be found in `hide_archives`.
